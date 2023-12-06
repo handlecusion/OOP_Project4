@@ -1,2 +1,6 @@
 hamburger
 hamburger
+hamburger
+banana
+dinosaur
+elephant
