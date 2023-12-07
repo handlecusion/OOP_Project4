@@ -19,25 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\BaseEntity.h" />
-    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\Game.h" />
-    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\InputManager.h" />
-    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\Player.h" />
-    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\Renderer.h" />
-    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\Word.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\Game.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\InputManager.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\main.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\Player.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\Renderer.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\Word.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6\wrong_answers.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="openal32.dll" />
     <None Include="sfml-audio-2.dll" />
     <None Include="sfml-audio-d-2.dll" />
@@ -52,6 +33,22 @@
   </ItemGroup>
   <ItemGroup>
     <Font Include="arial.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\BaseEntity.h" />
+    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\Game.h" />
+    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\InputManager.h" />
+    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\Player.h" />
+    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\Renderer.h" />
+    <ClInclude Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\Word.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\Game.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\InputManager.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\main.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\Player.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\Renderer.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\[2학년 2학기]\[객체프]\OOP_Project4_Team6 (2)\Word.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
